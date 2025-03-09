@@ -148,7 +148,13 @@ public void streamCall(ResponseBodyEmitter emitter, String query) throws Excepti
 
 ## 部署信息
 - 项目访问地址: http://121.41.108.215:5173/
+
 - （网址打开不了就是服务器到期了ξ( ✿＞◡❛)，希望大家尽量不要进行修改删除操作，谢谢大家的配合(´・ω・`)。若数据遭到恶意修改删除请联系管理员QQ:1411498103）
+
+- 服务器管理不易，如果觉得项目对您有益，请支持多多一下我们，谢谢(✿◠‿◠)
+
+  <img src="weixin_pay.jpg" width="200" alt="微信支付二维码">
+
 
 ## 开发环境搭建
 1. 克隆项目到本地
